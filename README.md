@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0ddb2ee4-fd43-4019-91d9-30df68810587
+
 # Holocaust Map of Poland
 
 This project presents an interactive map of Poland with information about Jewish communities in various cities during the Holocaust. The map allows users to learn about the history of each city and the fate of its Jewish inhabitants during World War II.
