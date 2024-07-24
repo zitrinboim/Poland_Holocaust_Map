@@ -60,7 +60,7 @@ function translateInfoKey(key) {
 window.addEventListener('load', () => {
     // טוען את ה-API של Google Maps
     const script = document.createElement('script');
-    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCR146QPBRYb35fjmY-08pNBIk8NPNUUBE&callback=initMap`;
+    script.src = `https://maps.googleapis.com/maps/api/js?key=ייייי&callback=initMap`;
     script.async = true;
     script.defer = true;
     document.head.appendChild(script);
